@@ -1,5 +1,5 @@
 # 🛍️Customer_behavior_analysis
- This project explores customer shopping behavior using transactional data from 3,900 purchases across various product categories. It combines Python for data cleaning and feature engineering, SQL for business-driven analytics, Power BI for interactive dashboard visualization and final report presentation using Gamma.
+ This project explores customer shopping behavior using transactional data from 3,900 purchases across various product categories. It combines Python for data cleaning and feature engineering, SQL for business-driven analytics, Power BI for interactive dashboard visualization.
  
 **Dataset**:
 - Size: 3,900 rows × 18 columns
@@ -42,7 +42,7 @@
 - Revenue by category, age group, shipping type
 - Customer segmentation and product performance
 
-4. Final Report (Gamma)
+4. Final Report
 - Summarized insights and recommendations
 - Presented findings in a clean, interactive format
 
@@ -56,7 +56,7 @@
 
 🚀 How to Run
 - Clone the repository
-git clone https://github.com/your-username/customer-behavior-analysis.git
+git clone https://github.com/Arpitaasarangi/Customer-behavior-analysis.git
 - Set up Python environment
 - Install dependencies: pip install -r requirements.txt
 - Run the Jupyter notebook
@@ -67,6 +67,6 @@ git clone https://github.com/your-username/customer-behavior-analysis.git
 - Run sql/Customer_analysis_queries.sql in MySQL Workbench or CLI
 - Open Power BI dashboard
 - File: dashboard/cust_analysis.pbix
-- View final report
+
 
 
